@@ -26,9 +26,11 @@ Building intelligent software, AI-powered applications, and scalable SaaS produc
 
 #  About Me
 
-🎓 **B.Tech in Artificial Intelligence Engineering**                 🎓 **BS in Data Science and Applications**  
-Vignan's Institute of Information Technology                            Indian Institute of Technology Madras
+🎓 **B.Tech in Artificial Intelligence Engineering**                  
+Vignan's Institute of Information Technology                            
 
+🎓 **BS in Data Science and Applications** 
+Indian Institute of Technology Madras
 
 💼 **Software Engineering Intern** @ HEITS Pvt. Ltd.
 
