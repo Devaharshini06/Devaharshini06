@@ -24,7 +24,7 @@ Building intelligent software, AI-powered applications, and scalable SaaS produc
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 🎓 **B.Tech in Artificial Intelligence Engineering**  
 Vignan's Institute of Information Technology
